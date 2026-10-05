@@ -413,7 +413,7 @@ void printReceipt()
     int i;
 
     printf("\n=============================================\n");
-    printf("              BSIT MINI MART\n");
+    printf("BSIT MINI MART\n");
     printf("=============================================\n");
     printf("                  RECEIPT\n");
     printf("---------------------------------------------\n");
@@ -427,11 +427,11 @@ void printReceipt()
         }
     }
     printf("---------------------------------------------\n");
-    printf("Subtotal: P%.2f\n", subtotal);
-    printf("Discount: P%.2f\n", discount);
-    printf("TOTAL: P%.2f\n", total);
-    printf("Cash: P%.2f\n", cash);
-    printf("Change: P%.2f\n", change);
+    printf("Subtotal:                   P%.2f\n", subtotal);
+    printf("Discount:                   P%.2f\n", discount);
+    printf("TOTAL:                      P%.2f\n", total);
+    printf("Cash:                       P%.2f\n", cash);
+    printf("Change:                     P%.2f\n", change);
     printf("---------------------------------------------\n");
     printf("Total Items Purchased: %d\n", countCartItems());
     printf("---------------------------------------------\n");
