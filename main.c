@@ -152,7 +152,7 @@ void newTransaction()
             printf("Price: P%.2f\n", prices[index]);
             printf("Quantity: %d\n", quantity);
             printf("Item Total: P%.2f\n", prices[index] * quantity);
-            printf("Item successfully added!\n");
+            printf("\nItem successfully added!\n");
         }
 
         printf("\nAdd another item?\n");
