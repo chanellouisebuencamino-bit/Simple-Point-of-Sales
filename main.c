@@ -1,11 +1,7 @@
 /*
  * COMSCI 1101 - FINAL GROUP PROJECT
  * Console-Based Mini POS System - BSIT MINI MART
- *
- * HOW THIS FILE IS ORGANIZED:
- * The program is divided into 9 PARTS.
- * Every part starts with its own INITIALIZATION (the variables and
- * arrays that the part needs), followed by its functions.
+
  *
  *   PART 1 - Main Menu            PART 6 - Checkout & Payment
  *   PART 2 - Product List         PART 7 - Update Stocks
