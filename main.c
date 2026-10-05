@@ -240,8 +240,6 @@ int getValidQuantity(int index)
         }
         printf("Please enter a valid quantity: ");
         scanf("%d", &enteredQty);
-
-        printf("test");
     }
     return enteredQty;
 }
