@@ -1,15 +1,3 @@
-/*
- * COMSCI 1101 - FINAL GROUP PROJECT
- * Console-Based Mini POS System - BSIT MINI MART
-
- *
- *   PART 1 - Main Menu            PART 6 - Checkout & Payment
- *   PART 2 - Product List         PART 7 - Update Stocks
- *   PART 3 - New Transaction      PART 8 - Print Receipt
- *   PART 4 - Stock Validation     PART 9 - Sales Summary
- *   PART 5 - Shopping Cart
- */
-
 #include <stdio.h>
 
 /* ---------- Function prototypes (a "list" of all functions) ---------- */
